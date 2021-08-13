@@ -17,7 +17,7 @@ switch (number) {
     case "4":
         console.log("Wednesday")
         break;
-
+    
     case "5":
         console.log("Thursday")
         break;
